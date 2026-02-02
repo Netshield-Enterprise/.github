@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_ORG/YOUR_REPO/main/assets/netshield-logo.png" width="200"/>
+  <img src="https://github.com/Netshield-Enterprise/.github/blob/main/assets/netshield-logo.jpeg" width="100"/>
 </p>
 
 <h1 align="center">NetShield</h1>
