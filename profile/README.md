@@ -4,6 +4,19 @@
 
 <h1 align="center">NetShield</h1>
 
+![Build](https://img.shields.io/github/actions/workflow/status/Netshield-Enterprise/netshield-analyzer/build.yml?branch=main)
+![Docker Pulls](https://img.shields.io/docker/pulls/ekene/netshield-analyzer)
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](LICENSE)
+[![License: Commercial](https://img.shields.io/badge/License-Commercial-blue.svg)](./LICENSE-COMMERCIAL)
+![Issues](https://img.shields.io/github/issues/Netshield-Enterprise/netshield-analyzer)
+![Discussions](https://img.shields.io/github/discussions/Netshield-Enterprise/netshield-analyzer)
+
+![Build](https://img.shields.io/github/actions/workflow/status/Netshield-Enterprise/netshield-action/build.yml?branch=main)
+![Docker Pulls](https://img.shields.io/docker/pulls/ekene/netshield-action)
+[![License: Commercial](https://img.shields.io/badge/License-Commercial-blue.svg)](./LICENSE-COMMERCIAL)
+![Issues](https://img.shields.io/github/issues/Netshield-Enterprise/netshield-action)
+![Discussions](https://img.shields.io/github/discussions/Netshield-Enterprise/netshield-action)
+
 ## Real Risk Security for CI/CD Pipelines
 
 Most security tools tell you vulnerabilities exist.  
