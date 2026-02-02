@@ -4,7 +4,8 @@
 
 <h1 align="center">NetShield</h1>
 
-![Build](https://img.shields.io/github/actions/workflow/status/Netshield-Enterprise/netshield-analyzer/build.yml?branch=main)
+[![GitHub Release](https://img.shields.io/github/v/release/Netshield-Enterprise/netshield-analyzer?style=flat-square)](https://github.com/Netshield-Enterprise/netshield-analyzer/releases)
+[![Release Workflow](https://github.com/Netshield-Enterprise/netshield-analyzer/actions/workflows/release.yml/badge.svg)](https://github.com/Netshield-Enterprise/netshield-analyzer/actions/workflows/release.yml)
 ![Docker Pulls](https://img.shields.io/docker/pulls/ekene/netshield-analyzer)
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](LICENSE)
 [![License: Commercial](https://img.shields.io/badge/License-Commercial-blue.svg)](./LICENSE-COMMERCIAL)
