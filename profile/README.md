@@ -6,30 +6,24 @@
 
 [![GitHub Release](https://img.shields.io/github/v/release/Netshield-Enterprise/netshield-analyzer?style=flat-square)](https://github.com/Netshield-Enterprise/netshield-analyzer/releases)
 [![Release Workflow](https://github.com/Netshield-Enterprise/netshield-analyzer/actions/workflows/release.yml/badge.svg)](https://github.com/Netshield-Enterprise/netshield-analyzer/actions/workflows/release.yml)
-![Docker Pulls](https://img.shields.io/docker/pulls/ekene/netshield-analyzer)
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](LICENSE)
 [![License: Commercial](https://img.shields.io/badge/License-Commercial-blue.svg)](./LICENSE-COMMERCIAL)
 ![Issues](https://img.shields.io/github/issues/Netshield-Enterprise/netshield-analyzer)
 ![Discussions](https://img.shields.io/github/discussions/Netshield-Enterprise/netshield-analyzer)
 
-![Build](https://img.shields.io/github/actions/workflow/status/Netshield-Enterprise/netshield-action/build.yml?branch=main)
-![Docker Pulls](https://img.shields.io/docker/pulls/ekene/netshield-action)
-[![License: Commercial](https://img.shields.io/badge/License-Commercial-blue.svg)](./LICENSE-COMMERCIAL)
-![Issues](https://img.shields.io/github/issues/Netshield-Enterprise/netshield-action)
-![Discussions](https://img.shields.io/github/discussions/Netshield-Enterprise/netshield-action)
+<h2 align="center">Security That Makes Release Decisions</h2>
 
-## Real Risk Security for CI/CD Pipelines
+NetShield builds security engines that determine whether software is **safe to ship**.
 
-Most security tools tell you vulnerabilities exist.  
-NetShield tells you if attackers can actually use them in **your application**.
+Most security tools generate findings. NetShield generates **decisions**.
 
 ---
 
 ## Mission
 
-Eliminate security noise.  
-Block real risk.  
-Let developers ship securely at high velocity.
+> Eliminate security noise.  
+> Block real risk.  
+> Let developers ship securely at high velocity.
 
 ---
 
